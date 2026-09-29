@@ -2,4 +2,6 @@ void main()
 {
     prinft("Hello world！");
 
+    prinft("Hello! Buterfull world!")
+
 }
